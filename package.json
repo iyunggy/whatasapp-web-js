@@ -1,0 +1,22 @@
+{
+  "name": "whatsapp-web-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyunggy/whatasapp-web-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iyunggy/whatasapp-web-js/issues"
+  },
+  "homepage": "https://github.com/iyunggy/whatasapp-web-js#readme",
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
